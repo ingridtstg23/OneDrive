@@ -1,0 +1,6 @@
+Tipe Data python 
+- Tipe Data Primitive
+  -integer (int) -> Numerikal
+  -string (str) -> character A-Z,0-9, diapit oleh tanda kutip. 
+  -Float (float) -> bisa menggunakan angka desimal
+  -Boolean (bool) -> true atau flase
